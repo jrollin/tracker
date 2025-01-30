@@ -1,0 +1,8 @@
+.git
+certs
+target
+examples
+templates
+Readme.md 
+Dockerfile
+docker-compose.yml

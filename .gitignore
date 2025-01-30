@@ -1,0 +1,4 @@
+/target
+.env
+/certs/*.pem
+.DS_Store
